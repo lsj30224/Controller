@@ -103,9 +103,7 @@ public class PiCar extends Thread
 
     public static void main(String[] args) throws InterruptedException
     {
-        System.out.println("This Program was made by Seungjun Lee");
-        System.out.println("I Do Not Allow Unauthorized Use.");
-        System.out.println("Blog URL : lsj30224.blog.me");
+        //System.out.println("blog.naver.com/lsj30224");
 
         final int PORT = 59807;
         try
