@@ -1,7 +1,6 @@
 /*
 This Source Is Created By Seungjun Lee
-I Don't allow Unauthorized Using.
-Blog URL :  http://lsj30224.blog.me
+Blog URL :  http://blog.naver.com/lsj30224
 */
 import com.pi4j.io.gpio.GpioController;
 import com.pi4j.io.gpio.GpioFactory;
